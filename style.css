@@ -1,0 +1,28 @@
+body.estilo{
+    font: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray
+}
+
+
+
+h1.encabezado{
+    font-weight: normal;
+    margin: 0px;
+    font-size: 28px;
+    color: black;
+}
+input.boton{
+    
+    background-color: #ff6200;
+    color: white;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    
+.negro{
+    color: black;
+}
+
+
